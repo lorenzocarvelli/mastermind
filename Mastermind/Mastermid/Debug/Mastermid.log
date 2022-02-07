@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Mastermid.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  mastermind.cpp
+C:\Projects\Mastermind\Mastermid\mastermind.cpp(58,29): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Mastermid.vcxproj -> C:\Projects\Mastermind\Debug\Mastermind.exe
